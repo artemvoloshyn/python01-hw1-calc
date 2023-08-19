@@ -22,14 +22,21 @@ Instructions:
 2. Choose the desired calculation action
 3. Enjoy with the results
 
-Please enter the first number:10
-Your first number is: 10
-Please enter the second number:20
-Your second number is: 20
-Enter your choice (1-4):1
-Your choice is: 1. Addition
+Please enter the first number:3
+Your first number is: 3
+Please enter the second number:34
+Your second number is: 34
 
-The result of the operation is: 30
+Please select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your choice (1-4):4
+Your choice is: 4. Division
+
+The result of the operation is: 0.0882353
 ```
 
 

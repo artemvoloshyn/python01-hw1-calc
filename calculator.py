@@ -36,6 +36,7 @@ Please select an operation:
 3. Multiplication
 4. Division
 """
+print(select)
 
 choices = {
     1: "Addition",
